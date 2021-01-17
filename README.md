@@ -1,4 +1,6 @@
-# web_client
+# 4BetApp
+
+Vue + Typescript Application to view soccer results on demand. Using [SportdataApi](https://app.sportdataapi.com/documentation#countryById)
 
 ## Project setup
 ```
